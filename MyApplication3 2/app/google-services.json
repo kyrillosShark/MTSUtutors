@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51830448157",
+    "project_id": "mtsututors",
+    "storage_bucket": "mtsututors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51830448157:android:7302287957202f8550e6f4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51830448157-sjhcaedhfatvpgb8fuajr6ah9ur6sqbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqX3v0dYi2GW-mrBH_W8M2i8AUhoQtp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51830448157-sjhcaedhfatvpgb8fuajr6ah9ur6sqbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

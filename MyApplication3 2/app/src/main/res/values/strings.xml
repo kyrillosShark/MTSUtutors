@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MTSU Tutoring</string>
+    <style name="StyleWithoutToolbar" parent="Theme.AppCompat.Light.NoActionBar"/>
+     <string-array name="names">
+        <item>Tutor</item>
+        <item>Student</item>
+    </string-array>>
+</resources>
